@@ -1,5 +1,5 @@
 # Task-2
-live weblink: 
+live weblink: https://suyashaditya919.github.io/Task-2/
 
 Prithvi | The Digital Voyager ⛵
 
